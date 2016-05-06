@@ -1,7 +1,6 @@
 # TeddyBear
 These are my copyrighted TeddyBear emjoi's
 
-# Example's
 ![Image of Example1](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/examples/teddy_1.png)
 
 ![Image of Example2](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/examples/teddy_2.png)
