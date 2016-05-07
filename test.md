@@ -1,3 +1,3 @@
-| Angry Face  | Anguished Face  | Image 3 | Image 4 | Image 5 | Image 6 |
-| ------------- | ------------- |
+| Angry Face  | Anguished Face  | Image 3 | Image 4 | Image 5 | Image 6 | Image 7
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | ![Image of Angry Face](https://github.com/JustOneMoreBlock/TeddyBear/blob/master/128x128/angry-face.png) | ![Image of Angry Face](https://github.com/JustOneMoreBlock/TeddyBear/blob/master/128x128/angry-face.png) | ![Image of Image](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/confused-face.png) | ![Image of Image](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/crying-face.png) | ![Image of Image](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/disappointed-face.png) | ![Image of Image](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/expressionless-face.png) | ![Image of Image](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-savouring-delicious-food.png) |
