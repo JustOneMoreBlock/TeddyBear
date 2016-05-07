@@ -1,4 +1,4 @@
--> huh <-
+
 | Image | Description |
 | :---: | :---: |
 | ![Image of Angry Face ](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/angry-face.png) | Angry Face 
@@ -43,4 +43,3 @@
 | ![Image of White Smiling Face ](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/white-smiling-face.png) | White Smiling Face 
 | ![Image of Winking Face ](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/winking-face.png) | Winking Face 
 | ![Image of Worried Face ](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/worried-face.png) | Worried Face
-<-
