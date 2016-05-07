@@ -1,6 +1,6 @@
 
-| Image | Description |
-| :---: | :---: |
+| Image | Description | Shortcut |
+| :---: | :---: | :---: |
 | ![Image of Angry Face ](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/angry-face.png) | Angry Face 
 | ![Image of Anguished Face ](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/anguished-face.png) | Anguished Face 
 | ![Image of Confused Face ](https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/confused-face.png) | Confused Face 
