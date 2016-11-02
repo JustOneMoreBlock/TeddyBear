@@ -1,18 +1,19 @@
 <?php
 
+/* Config Settings */
 $config['db']['host']     = "";
 $config['db']['username'] = "";
 $config['db']['password'] = "";
 $config['db']['dbname']   = "";
 
+$smilie_category_id = 1;
+$display_in_editor  = 1; //1 = yes / 0 = no.
+$url = "https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128"; //leave empty to use images on server.
+
 $db = new mysqli($config['db']['host'], $config['db']['username'], $config['db']['password'], $config['db']['dbname']);
 if($db->connect_errno > 0){
     die('Database error: [' . $db->connect_error . ']');
 }
-
-$smilie_category_id = 1;
-$display_in_editor  = 1; //1 = yes / 0 = no.
-$url = "https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128"; //leave empty to use images on server.
 
 $sql = "SELECT * FROM TeddyBear";
 
