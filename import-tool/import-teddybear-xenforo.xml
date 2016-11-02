@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+  <smilie_categories>
+    <smilie_category id="1" title="TeddyBear" display_order="0"/>
+  </smilie_categories>
+  <smilies>
+    <smilie smilie_category_id="1" title="Angry Face" display_order="1" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/angry-face.png</image_url>
+      <smilie_text>:angry-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Anguished Face" display_order="2" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/anguished-face.png</image_url>
+      <smilie_text>:anguished-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Confused Face" display_order="3" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/confused-face.png</image_url>
+      <smilie_text>:confused-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Crying Face" display_order="4" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/crying-face.png</image_url>
+      <smilie_text>:crying-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Disappointed Face" display_order="5" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/disappointed-face.png</image_url>
+      <smilie_text>:disappointed-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Expressionless Face" display_order="6" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/expressionless-face.png</image_url>
+      <smilie_text>:expressionless-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Face Savouring Delicious Food" display_order="7" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-savouring-delicious-food.png</image_url>
+      <smilie_text>:face-savouring-delicious-food:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Face Screaming In Fear" display_order="8" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-screaming-in-fear.png</image_url>
+      <smilie_text>:face-screaming-in-fear:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Face Throwing A Kiss" display_order="9" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-throwing-a-kiss.png</image_url>
+      <smilie_text>:face-throwing-a-kiss:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Face With Cold Sweat" display_order="10" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-with-cold-sweat.png</image_url>
+      <smilie_text>:face-with-cold-sweat:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Face With Look Of Triumph" display_order="11" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-with-look-of-triumph.png</image_url>
+      <smilie_text>:face-with-look-of-triumph:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Face With Open Mouth And Cold Sweat" display_order="12" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-with-open-mouth-and-cold-sweat.png</image_url>
+      <smilie_text>:face-with-open-mouth-and-cold-sweat:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Face With Open Mouth" display_order="13" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-with-open-mouth.png</image_url>
+      <smilie_text>:face-with-open-mouth:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Face With Stuck Out Tongue" display_order="14" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-with-stuck-out-tongue.png</image_url>
+      <smilie_text>:face-with-stuck-out-tongue:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Face With Tears Of Joy" display_order="15" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/face-with-tears-of-joy.png</image_url>
+      <smilie_text>:face-with-tears-of-joy:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Fearful Face" display_order="16" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/fearful-face.png</image_url>
+      <smilie_text>:fearful-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Frowning Face With Open Mouth" display_order="17" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/frowning-face-with-open-mouth.png</image_url>
+      <smilie_text>:frowning-face-with-open-mouth:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Grimacing Face" display_order="18" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/grimacing-face.png</image_url>
+      <smilie_text>:grimacing-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Grinning Face With Smiling Eyes" display_order="19" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/grinning-face-with-smiling-eyes.png</image_url>
+      <smilie_text>:grinning-face-with-smiling-eyes:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Grinning Face" display_order="20" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/grinning-face.png</image_url>
+      <smilie_text>:grinning-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Hushed Face" display_order="21" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/hushed-face.png</image_url>
+      <smilie_text>:hushed-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Loudly Crying Face" display_order="22" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/loudly-crying-face.png</image_url>
+      <smilie_text>:loudly-crying-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Neutral Face" display_order="23" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/neutral-face.png</image_url>
+      <smilie_text>:neutral-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Persevering Face" display_order="24" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/persevering-face.png</image_url>
+      <smilie_text>:persevering-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Pouting Face" display_order="25" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/pouting-face.png</image_url>
+      <smilie_text>:pouting-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Relieved Face" display_order="26" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/relieved-face.png</image_url>
+      <smilie_text>:relieved-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Sleeping Face" display_order="27" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/sleeping-face.png</image_url>
+      <smilie_text>:sleeping-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Sleepy Face" display_order="28" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/sleepy-face.png</image_url>
+      <smilie_text>:sleepy-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Slightly Frowning Face" display_order="29" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/slightly-frowning-face.png</image_url>
+      <smilie_text>:slightly-frowning-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Smiling Face With Halo" display_order="30" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/smiling-face-with-halo.png</image_url>
+      <smilie_text>:smiling-face-with-halo:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Smiling Face With Heart Shaped Eyes" display_order="31" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/smiling-face-with-heart-shaped-eyes.png</image_url>
+      <smilie_text>:smiling-face-with-heart-shaped-eyes:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Smiling Face With Open Mouth And Cold Sweat" display_order="32" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/smiling-face-with-open-mouth-and-cold-sweat.png</image_url>
+      <smilie_text>:smiling-face-with-open-mouth-and-cold-sweat:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Smiling Face With Open Mouth And Smiling Eyes" display_order="33" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/smiling-face-with-open-mouth-and-smiling-eyes.png</image_url>
+      <smilie_text>:smiling-face-with-open-mouth-and-smiling-eyes:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Smiling Face With Open Mouth And Tightly Closed Eyes" display_order="34" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/smiling-face-with-open-mouth-and-tightly-closed-eyes.png</image_url>
+      <smilie_text>:smiling-face-with-open-mouth-and-tightly-closed-eyes:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Smiling Face With Open Mouth" display_order="35" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/smiling-face-with-open-mouth.png</image_url>
+      <smilie_text>:smiling-face-with-open-mouth:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Smiling Face With Smiling Eyes" display_order="36" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/smiling-face-with-smiling-eyes.png</image_url>
+      <smilie_text>:smiling-face-with-smiling-eyes:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Smiling Face With Sunglasses" display_order="37" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/smiling-face-with-sunglasses.png</image_url>
+      <smilie_text>:smiling-face-with-sunglasses:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Smirking Face" display_order="38" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/smirking-face.png</image_url>
+      <smilie_text>:smirking-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Tired Face" display_order="39" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/tired-face.png</image_url>
+      <smilie_text>:tired-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="White Smiling Face" display_order="40" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/white-smiling-face.png</image_url>
+      <smilie_text>:white-smiling-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Winking Face" display_order="41" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/winking-face.png</image_url>
+      <smilie_text>:winking-face:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="1" title="Worried Face" display_order="42" display_in_editor="1">
+      <image_url>https://raw.githubusercontent.com/JustOneMoreBlock/TeddyBear/master/128x128/worried-face.png</image_url>
+      <smilie_text>:worried-face:</smilie_text>
+    </smilie>
+  </smilies>
+</smilies_export>
